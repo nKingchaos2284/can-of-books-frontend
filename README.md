@@ -1,10 +1,10 @@
 # Project Name
 
 **Author**: TJ & Joey
-**Version**: 1.0 
+**Version**: 1.0.0 
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+virtual book library
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -19,16 +19,27 @@
 
 ## Estimates
 
-Name of feature: Robotic overlords data assimilating library
+Name of feature: front end day one
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2hrs
 
-Start time: _____
+Start time: 1400
 
-Finish time: _____
+Finish time: 1600
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1.5hrs
 
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+TJ
+
+
+## Partner Agreement
+
+- Communicate any and all issues/changes
+- only push to working branch, not main
+
+- meet on agreed times
+- resolve issues and conflicts by logical thought
+
+- HAVE FUN
