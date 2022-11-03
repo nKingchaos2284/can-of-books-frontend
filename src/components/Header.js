@@ -10,7 +10,7 @@ class Header extends React.Component {
     return (
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
 
-        <Navbar.Brand>My Favorite Books</Navbar.Brand>
+        <Navbar.Brand>My Favorite Books!</Navbar.Brand>
 
 
         <div className='links'>

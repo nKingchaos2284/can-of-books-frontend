@@ -28,7 +28,7 @@ class BestBooks extends React.Component {
       console.log("We have books fool!");
       console.log(this.state.books);
     } catch (error) {
-      console.log("Books not retrieved due to: ", error.reponse);
+      console.log("Books not retrieved due to: ", error.response);
     }
   };
 
@@ -119,7 +119,7 @@ class BestBooks extends React.Component {
     
     return (
       <>
-        <h2>The e_library of E=lexandria Shelf</h2>
+        <h2>The e_library of @lexandr.ia</h2>
 
         {this.state.books.length ? (
           <BooksCarousel
@@ -129,7 +129,7 @@ class BestBooks extends React.Component {
           />
 
         ) : (
-          <h3>No Books Found :(</h3>
+          <h3>No Books Found</h3>
         )}
          <ConfirmModal
           show={this.state.showModal}
