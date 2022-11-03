@@ -6,7 +6,7 @@
   margin: auto;
   height: 60vh;
   aspect-ratio: auto;
-  border: 6px solid #6C786B;
+  border: 6px solid #d1eecf;
 }
 
 .carousel-caption {
@@ -39,14 +39,27 @@ h2 {
   width: 100%;
   text-align: center;
   padding: 10rem 0;
+  font-size: 4vw;
+  font-weight: 820;
+  font-family: 'Press Start 2P', cursive;
+  color: navy;
+}
+
+h3 {
+color: peru;
 }
 
 .main {
-  height: 100vh;
+  height: 200vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: #92ce7c;
+  /* background-color: #92ce7c; */
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-640237437-1-jpg-1563378594.jpg");
+  background-position: center;
+  background-size: contain;
+  font-family: 'Press Start 2P', cursive;
+
 }
 
 .card {
