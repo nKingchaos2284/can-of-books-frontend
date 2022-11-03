@@ -6,7 +6,7 @@
   margin: auto;
   height: 60vh;
   aspect-ratio: auto;
-  border: 5px solid #6C786B;
+  border: 6px solid #6C786B;
 }
 
 .carousel-caption {
@@ -14,17 +14,16 @@
   right: 15%;
   bottom: 0% !important;
   left: 25% !important;
-  padding: 1.25rem;
+  padding: 1.45rem;
   text-align: center;
-  background-color: #DFD7B2;
+  background-color: #8f9edb;
   width: 50%;
   height: 100%;
 }
 
 .carousel-caption h3 {
   font-size: 5vw;
-  color: white;
-  /* -webkit-text-stroke: rgba(13, 12, 14, 0.5) 1px; */
+  color: #F2DCC2;
   margin-top: 13rem;
 }
 
@@ -47,13 +46,13 @@ h2 {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: #F2DCC2;
+  background-color: #92ce7c;
 }
 
 .card {
   width: 25vw !important;
   height: 35vw !important;
-  font-size: 1.6vw;
+  font-size: 1.5vw;
 }
 
 .navbar:first-child {
@@ -68,7 +67,7 @@ h2 {
 }
 
 .nav-link {
-  color: whitesmoke;
+  color: #F2DCC2;
 }
 .links {
   display: flex;
@@ -80,19 +79,17 @@ h2 {
 }
 
 .nav-link:visited {
-  color: whitesmoke;
+  color: rgb(236, 223, 223);
 }
 
 .nav-link:visited:hover {
-  color: #F2DCC2;
+  color: #8e2fed;
 }
-
-
 
 @media (max-width: 1050px) {
   .card {
     width: 25vw !important;
     height: 40vw !important;
-    font-size: 1.6vw;
+    font-size: 1.5vw;
   }
 }
